@@ -1,0 +1,25 @@
+{
+  "name": "SaveHuobiDao",
+  "logoURI": "https://savehuobidao.com/32.svg",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2022-01-10T00:00:00.000+00:00",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x278d1f7067f4dabb9811f98a038803a9c84a6196",
+      "name": "SaveHuobiDao",
+      "symbol": "SHD",
+      "decimals": 18,
+      "logoURI": "https://savehuobidao.com/32.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
